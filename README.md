@@ -69,8 +69,7 @@ trained BID-YOLO checkpoints for all five seeds are available via Baidu Netdisk:
 - Link: https://pan.baidu.com/s/1_n8aXxkr3-BlPPKZJYVP2w
 - Extraction code: 8h25
 
-The source code, training/evaluation scripts, and edge deployment code are
-hosted in this repository.
+The source code and training/evaluation scripts are hosted in this repository.
 
 ## Citation
 
