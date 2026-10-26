@@ -60,10 +60,17 @@ Metrics are reported as mean ± SD over five independent runs.
 
 The trained checkpoint is exported to ONNX and compiled into a TensorRT FP16 engine, reaching 78.7 FPS (vs. 38.2 FPS in PyTorch FP32) with only 0.30 pp mAP degradation. TensorRT is provided by JetPack on the Jetson device; see the deployment scripts for the export and inference workflow.
 
-## Trained weights
+## Dataset and code availability
 
-Pre-trained checkpoints for all five seeds are available in (通过网盘分享的文件：Bullfrog-Injury-Detection.zip
-链接: https://pan.baidu.com/s/1_n8aXxkr3-BlPPKZJYVP2w 提取码: 8h25).
+The complete bullfrog injury dataset (1128 images with YOLO-format annotations,
+five stratified 8:1:1 partitions with seeds 42/123/256/512/1024) and the
+trained BID-YOLO checkpoints for all five seeds are available via Baidu Netdisk:
+
+- Link: https://pan.baidu.com/s/1_n8aXxkr3-BlPPKZJYVP2w
+- Extraction code: 8h25
+
+The source code, training/evaluation scripts, and edge deployment code are
+hosted in this repository.
 
 ## Citation
 
