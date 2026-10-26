@@ -62,7 +62,8 @@ The trained checkpoint is exported to ONNX and compiled into a TensorRT FP16 eng
 
 ## Trained weights
 
-Pre-trained checkpoints for all five seeds are available in [Releases](https://github.com/joho-fish21/Bullfrog-Injury-Detection/releases).
+Pre-trained checkpoints for all five seeds are available in (通过网盘分享的文件：Bullfrog-Injury-Detection.zip
+链接: https://pan.baidu.com/s/1_n8aXxkr3-BlPPKZJYVP2w 提取码: 8h25).
 
 ## Citation
 
