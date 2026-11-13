@@ -88,4 +88,4 @@ deep learning. (in press)
 
 ## Acknowledgements
 
-This work was supported by the Jiangsu Science and Technology Planning Project of China (Grant No. BE2021362).
+This research was supported by the Jiangsu Science and Technology Planning Project of China (No. BE2021362), the Jiangsu Province Modern Agricultural Machinery Equipment and Technology Demonstration and Promotion Project (No. NJ2026-05) and (No. NJ2024-02), and the Nanjing Modern Agricultural Machinery Equipment and Technology Innovation Demonstration Project of Jiangsu (No. NJ202305).
